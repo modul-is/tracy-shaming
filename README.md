@@ -1,2 +1,2 @@
 # tracy-shamming
-Low-effort. Hateful.
+Low-effort. Hateful. Unoriginal. Unfunny. Thanks to **orisai/tracy-pets**.
