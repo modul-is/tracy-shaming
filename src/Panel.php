@@ -2,7 +2,7 @@
 
 declare(strict_types = 1);
 
-namespace ModulIS\TracyShamming;
+namespace ModulIS\TracyShaming;
 
 use Nette\Neon\Neon;
 use Throwable;

@@ -2,7 +2,7 @@
 
 declare(strict_types = 1);
 
-namespace ModulIS\TracyShamming;
+namespace ModulIS\TracyShaming;
 
 use Nette\DI\CompilerExtension;
 use Nette\PhpGenerator\Literal;
