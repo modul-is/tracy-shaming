@@ -1,0 +1,21 @@
+{
+	"name": "modul-is/form",
+	"type": "library",
+	"homepage": "https://github.com/modul-is/tracy-shamming",
+	"require":
+	{
+		"php": "^8.2",
+		"nette/utils": "^4.0",
+		"tracy/tracy": "^2"
+	},
+	"require-dev":
+	{
+		"phpstan/phpstan-nette": "^1",
+		"modul-is/coding-standard": "^4",
+		"nette/tester": "^2.1"
+	},
+	"autoload":
+	{
+		"classmap": ["src/"]
+	}
+}
